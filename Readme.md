@@ -38,4 +38,4 @@ _Files to look at:_
 * [bundleconfig.json](./CS/Client/bundleconfig.json)
 * [NavMenu.razor](./CS/Client/Shared/NavMenu.razor)
 
-For more information on the dashboard configuration in ASP.NET Core, refer to the ["Create an ASP.NET Core 3.0 Dashboard Application"](https://docs.devexpress.com/Dashboard/401369/get-started/build-web-dashboard-applications/create-an-aspnet-core-3-dashboard-application) help topic.
+For more information on the dashboard configuration in ASP.NET Core, refer to the [Create an ASP.NET Core 3.0 Dashboard Application](https://docs.devexpress.com/Dashboard/401369/get-started/build-web-dashboard-applications/create-an-aspnet-core-3-dashboard-application) help topic.
