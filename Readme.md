@@ -2,6 +2,8 @@
 
 This example demonstrates how to integrate the [HTML JavaScript Dashboard](https://docs.devexpress.com/Dashboard/119108/designer-and-viewer-applications/web-dashboard/html-javascript-dashboard-control) into a Blazor application.
 
+![](Image/blazor-integrated-dashboard.png)
+
 The solution is based on the client-server model and includes the client and server parts.
 
 **Note:** DevExpress Blazor components are now free-of-charge, but you need to purchase the [Universal Subscription](https://www.devexpress.com/buy/net/) to use the Dashboard product.
