@@ -41,7 +41,8 @@ namespace BlazorDashboardApp.Server {
                         // Create a sample JSON data source
                         DataSourceInMemoryStorage dataSourceStorage = new DataSourceInMemoryStorage();
                         DashboardJsonDataSource jsonDataSourceUrl = new DashboardJsonDataSource("JSON Data Source (URL)");
-                        jsonDataSourceUrl.JsonSource = new UriJsonSource(new Uri("https://raw.githubusercontent.com/DevExpress-Examples/DataSources/master/JSON/customers.json"));
+                        jsonDataSourceUrl.JsonSource = new UriJsonSource(
+                            new Uri("https://raw.githubusercontent.com/DevExpress-Examples/DataSources/master/JSON/customers.json"));
                         jsonDataSourceUrl.RootElement = "Customers";
                         jsonDataSourceUrl.Fill();
                         dataSourceStorage.RegisterDataSource("jsonDataSourceUrl", jsonDataSourceUrl.SaveToXml());
@@ -65,11 +66,11 @@ namespace BlazorDashboardApp.Server {
             app.UseHttpsRedirection();
             app.UseBlazorFrameworkFiles();
             app.UseStaticFiles();
-            app.UseDevExpressControls(); // !! Add UseDevExpressControls
+            app.UseDevExpressControls();
             app.UseRouting();
 
             app.UseEndpoints(endpoints => {
-                EndpointRouteBuilderExtension.MapDashboardRoute(endpoints, "api/dashboard"); // !! Add Route
+                EndpointRouteBuilderExtension.MapDashboardRoute(endpoints, "api/dashboard");
                 endpoints.MapRazorPages();
                 endpoints.MapControllers();
                 endpoints.MapFallbackToFile("index.html");
