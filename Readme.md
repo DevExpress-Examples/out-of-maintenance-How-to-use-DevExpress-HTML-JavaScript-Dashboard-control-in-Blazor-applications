@@ -34,7 +34,7 @@ _Files to look at:_
 Defines the UI for the HTML JavaScript Dashboard control and implements the logic to respond to UI updates. 
 
 These are the main steps to configure the client side: 
-1. Install the **devexpress-dashboard**, **@devexpress/analytics-core**, **devextreme** and **jquery-ui-dist** npm packages. 
+1. Install the **devexpress-dashboard**, **@devexpress/analytics-core**, **devextreme**, and **jquery-ui-dist** npm packages. 
 2. Create the **Dashboard.razor** file for the HTML JavaScript Dashboard control. Invoke an initialization method in the **OnAfterRender** lifecycle event and release unused memory in the **Dispose** event.
 3. Create the **index.js** file and implement the logic to initialize and dispose of the dashboard control. 
 4. Install the **BuildBundlerMinifier** NuGet package and create the **bundleconfig.json** file to create bundles for required CSS and JavaScript files.
