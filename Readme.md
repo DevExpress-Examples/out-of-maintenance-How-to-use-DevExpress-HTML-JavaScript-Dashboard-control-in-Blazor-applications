@@ -26,7 +26,7 @@ These are the main steps to configure the server side:
 _Files to look at:_
 * [package.json](./CS/BlazorDashboardApp/Client/package.json)
 * [Dashboard.razor](./CS/BlazorDashboardApp/Client/Dashboard.razor) 
-* [index.js](./CS/BlazorDashboardApp/Client/index.js)
+* [index.js](./CS/BlazorDashboardApp/Client/wwwroot/index.js)
 * [index.html](./CS/BlazorDashboardApp/Client/wwwroot/index.html)
 * [bundleconfig.json](./CS/BlazorDashboardApp/Client/bundleconfig.json)
 * [NavMenu.razor](./CS/BlazorDashboardApp/Client/Shared/NavMenu.razor)
