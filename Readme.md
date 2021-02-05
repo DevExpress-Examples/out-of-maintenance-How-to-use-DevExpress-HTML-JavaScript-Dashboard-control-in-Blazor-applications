@@ -1,4 +1,4 @@
-# How to use DevExpress JavaScript Dashboard control in Blazor applications
+# How to integrate DevExpress JavaScript Dashboard control in Blazor applications
 
 This example demonstrates how to integrate the [JavaScript Dashboard control](https://docs.devexpress.com/Dashboard/119108/designer-and-viewer-applications/web-dashboard/html-javascript-dashboard-control) into a Blazor application.
 
