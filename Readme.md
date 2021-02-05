@@ -44,6 +44,6 @@ These are the main steps to configure the client side:
 
 ## Documentation
 
+- [Create a Blazor Dashboard Application](https://docs.devexpress.com/Dashboard/401892/get-started/build-web-dashboard-applications/create-a-blazor-dashboard-application)
 - [Create an ASP.NET Core Dashboard Application](https://docs.devexpress.com/Dashboard/119284/get-started/build-web-dashboard-applications/create-an-aspnet-core-dashboard-application)
-- [Dashboard Backend](https://docs.devexpress.com/Dashboard/402096/web-dashboard/dashboard-backend)
 - [Dashboard for Blazor - How to use Web Dashboard within your Blazor Apps](https://community.devexpress.com/blogs/analytics/archive/2020/02/17/dashboard-for-blazor-how-to-use-web-dashboard-within-your-blazor-apps.aspx)
