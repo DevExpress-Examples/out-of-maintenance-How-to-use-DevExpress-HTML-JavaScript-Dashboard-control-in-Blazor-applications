@@ -6,7 +6,7 @@ This example demonstrates how to integrate the [JavaScript Dashboard control](ht
 
 The solution is based on the client-server model and includes the client and server parts.
 
-**Note:** DevExpress Blazor components are now free-of-charge, but you need to purchase the [Universal Subscription](https://www.devexpress.com/buy/net/) to use the Dashboard product.
+**Note:** You need to purchase the [Universal Subscription](https://www.devexpress.com/buy/net/) to use the Dashboard product.
 
 ## Server Part
 
