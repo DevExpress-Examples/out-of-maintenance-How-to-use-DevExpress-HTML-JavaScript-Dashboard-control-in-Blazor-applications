@@ -1,3 +1,12 @@
+⛔ DEPRECATED. The following example demonstrates how to integrate the JavaScript DashboardControl into a Blazor application. Starting from v21.1, you can use the Dashboard component for Blazor. Visit the following repositories to find an updated version:
+
+- [Get Started - Dashboard Component in Blazor Server Application](https://github.com/DevExpress-Examples/dashboard-blazor-server-app)
+- [Get Started - Dashboard Component in Blazor WebAssembly Application](https://github.com/DevExpress-Examples/dashboard-blazor-webassembly-app)
+
+The current approach will not be updated in the future.
+
+------
+
 # How to integrate DevExpress JavaScript Dashboard control in Blazor applications
 
 This example demonstrates how to integrate the [JavaScript Dashboard control](https://docs.devexpress.com/Dashboard/119108/designer-and-viewer-applications/web-dashboard/html-javascript-dashboard-control) into a Blazor application.
@@ -44,6 +53,6 @@ These are the main steps to configure the client side:
 
 ## Documentation
 
-- [Create a Blazor Dashboard Application](https://docs.devexpress.com/Dashboard/401892/get-started/build-web-dashboard-applications/create-a-blazor-dashboard-application)
-- [Create an ASP.NET Core Dashboard Application](https://docs.devexpress.com/Dashboard/119284/get-started/build-web-dashboard-applications/create-an-aspnet-core-dashboard-application)
+- [Create a Blazor Dashboard Application](https://docs.devexpress.com/Dashboard/401892/get-started/build-web-dashboard-applications/create-a-blazor-dashboard-application?v=20.1)
+- [Create an ASP.NET Core Dashboard Application](https://docs.devexpress.com/Dashboard/119284/get-started/build-web-dashboard-applications/create-an-aspnet-core-dashboard-application?v=20.1)
 - [Dashboard for Blazor - How to use Web Dashboard within your Blazor Apps](https://community.devexpress.com/blogs/analytics/archive/2020/02/17/dashboard-for-blazor-how-to-use-web-dashboard-within-your-blazor-apps.aspx)
